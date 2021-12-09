@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 ---
 
 
-[![Taunur's GitHub stats](https://github-readme-stats.vercel.app/api?username=taufikn10)](https://github.com/taufikn10/github-readme-stats)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taufikn10&layout=compact)](https://github.com/taufikn10/github-readme-stats) 
+[![Taunur's GitHub stats](https://github-readme-stats.vercel.app/api?username=taufikn10)](https://github.com/taufikn10/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taufikn10&layout=compact)](https://github.com/taufikn10/github-readme-stats) 
 
 
 
