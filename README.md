@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 <!-- [website]: https://banuacoders.com -->
 [twitter]: https://twitter.com/taunur_
 [instagram]: https://instagram.com/taunur_
-[linkedin]: linkedin.com/in/taufik-nurrahman-7b648a220
+[linkedin]: https://www.linkedin.com/in/taufik-nurrahman-7b648a220?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bb9A9dj6%2FRw%2Br3md6XmUCBg%3D%3D
 [webdevplaylist]: https://www.youtube.com/
 [jsplaylist]: https://www.youtube.com/
 [cssplaylist]: https://www.youtube.com/
