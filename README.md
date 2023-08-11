@@ -1,7 +1,7 @@
 ### Hi there, I'm Taufik Nurrahman 👋
 
 <!--
-**taufikn10/taufikn10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**taunur/taunur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 ---
 
 
-[![Taunur's GitHub stats](https://github-readme-stats.vercel.app/api?username=taufikn10)](https://github.com/taufikn10/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taufikn10&layout=compact)](https://github.com/taufikn10/github-readme-stats) 
+[![Taunur's GitHub stats](https://github-readme-stats.vercel.app/api?username=taunur)](https://github.com/taunur/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taunur&layout=compact)](https://github.com/taunur/github-readme-stats) 
 
 
 
