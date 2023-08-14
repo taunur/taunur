@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 [![An image of @taunur's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/taunur)](https://holopin.io/@taunur)
 
-<h2>About Me</h2>
+### About Me
 
 <p>📛 I'm Taufik Nurrahman a.k.a taunur</p>
 <p>🧑 Pronouns: He/Him </p>
@@ -56,7 +56,21 @@ Here are some ideas to get you started:
 
 ---
 
-[![Taunur's GitHub stats](https://github-readme-stats.vercel.app/api?username=taunur&show_icons=true&theme=tokyonight)](https://github.com/taunur/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taunur&theme=tokyonight)](https://github.com/taunur/github-readme-stats)
+<table align="center" width="100%">
+  <tr>
+  <td>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=taunur&theme=tokyonight_duo">
+  </td>
+  <td> 
+    <img src="https://github-readme-stats.vercel.app/api?username=taunur&show_icons=true&theme=tokyonight">
+  </td>
+  </tr>  
+  <tr>
+    <td align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taunur&theme=tokyonight">        
+    </td>
+  </tr>
+  </table>
 
 <!-- [website]: https://banuacoders.com -->
 
