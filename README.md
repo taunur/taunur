@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![An image of @taunur's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/taunur)](https://holopin.io/@taunur)
+![I am Taufik Nurrahman ](https://media.licdn.com/dms/image/C5616AQFQxn9rihHqqQ/profile-displaybackgroundimage-shrink_350_1400/0/1640270538621?e=1697673600&v=beta&t=2kFIPxGN7ie8RGntkkpJZnTe2Nb7Ls0RKh42hU7zkws)
 
 ### About Me
 
@@ -23,12 +23,6 @@ Here are some ideas to get you started:
 <p>🧑 Pronouns: He/Him </p>
 <p>🏫 Studies Bachelor of Science in Management Informatics at Surabaya State University</p>
 <p>🏠 Nganjuk East Java, Indonesia</p>
-
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -52,6 +46,14 @@ Here are some ideas to get you started:
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
 <br />
+
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
 <br />
 
 ---
@@ -72,6 +74,8 @@ Here are some ideas to get you started:
     </td>
   </tr>
 </table>
+
+[![An image of @taunur's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/taunur)](https://holopin.io/@taunur)
 
 <!-- [website]: https://banuacoders.com -->
 
