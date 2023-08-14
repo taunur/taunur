@@ -57,7 +57,9 @@ Here are some ideas to get you started:
 ---
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Taiwrash&theme=dark" alt="Taufik Nurrahman" /></p>
+  <p>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taunur&theme=tokyonight_duo" alt="Taufik Nurrahman" />
+  </p>
 </div>
 
 <table align="center" width="100%">
