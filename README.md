@@ -24,8 +24,6 @@ Here are some ideas to get you started:
 <p>🏫 Studies Bachelor of Science in Management Informatics at Surabaya State University</p>
 <p>🏠 Nganjuk East Java, Indonesia</p>
 
-<br />
-
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
@@ -53,10 +51,9 @@ Here are some ideas to get you started:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br />
-<br />
-
 ---
+
+### GitHub Stats:
 
 <div align="center">
   <p>
@@ -74,6 +71,12 @@ Here are some ideas to get you started:
     </td>
   </tr>
 </table>
+
+<h3>
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=taunur&label=Profile%20views&color=6805D3&style=flat" alt="Taufik Nurrahman" />
+  </p>
+</h3>
 
 [![An image of @taunur's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/taunur)](https://holopin.io/@taunur)
 
