@@ -57,11 +57,13 @@ Here are some ideas to get you started:
 
 ### GitHub Stats:
 
-<div align="center">
-  <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taunur&theme=tokyonight_duo" alt="Taufik Nurrahman" />
-  </p>
-</div>
+<table align="center" width="100%">
+  <tr>
+    <td align="center">
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taunur&theme=tokyonight_duo" alt="Taufik Nurrahman" />
+    </td>
+  </tr>
+</table>
 
 <table align="center" width="100%">
   <tr>
