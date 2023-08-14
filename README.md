@@ -61,13 +61,13 @@ Here are some ideas to get you started:
   <td>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=taunur&theme=tokyonight_duo">
   </td>
-  <td> 
-    <img src="https://github-readme-stats.vercel.app/api?username=taunur&show_icons=true&theme=tokyonight">
-  </td>
   </tr>  
   <tr>
     <td align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taunur&theme=tokyonight">        
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taunur&theme=tokyonight">        
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=taunur&show_icons=true&theme=tokyonight">
     </td>
   </tr>
   </table>
