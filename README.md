@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi There 👋
 
 <!--
 **taunur/taunur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -71,10 +71,12 @@ Here are some ideas to get you started:
       <img src="https://github-readme-stats.vercel.app/api?username=taunur&show_icons=true&theme=tokyonight">
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taunur&theme=tokyonight">        
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taunur&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
     </td>
   </tr>
 </table>
+
+<h3 align="center"> UI / UX Designer | Website Developer | Mobile Developer</h3>
 
 <h3>
   <p align="center">
