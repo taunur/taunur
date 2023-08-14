@@ -56,17 +56,20 @@ Here are some ideas to get you started:
 
 ---
 
+<div align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Taiwrash&theme=dark" alt="Taufik Nurrahman" /></p>
+</div>
+
 <table align="center" width="100%">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=taunur&theme=tokyonight_duo">
   <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taunur&theme=tokyonight">        
-    </td>
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=taunur&show_icons=true&theme=tokyonight">
     </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taunur&theme=tokyonight">        
+    </td>
   </tr>
-  </table>
+</table>
 
 <!-- [website]: https://banuacoders.com -->
 
