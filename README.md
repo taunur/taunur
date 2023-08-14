@@ -1,4 +1,4 @@
-### Hi there, I'm Taufik Nurrahman 👋
+### Hi there 👋
 
 <!--
 **taunur/taunur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![An image of @taunur's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/taunur)](https://holopin.io/@taunur)
+
+<h2>About Me</h2>
+
+<p>📛 I'm Taufik Nurrahman a.k.a taunur</p>
+<p>🧑 Pronouns: He/Him </p>
+<p>🏫 Studies Bachelor of Science in Management Informatics at Surabaya State University</p>
+<p>🏠 Nganjuk East Java, Indonesia</p>
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -24,6 +33,7 @@ Here are some ideas to get you started:
 <br />
 
 ### Languages and Tools:
+
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
@@ -44,23 +54,16 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-
 ---
 
-
-[![Taunur's GitHub stats](https://github-readme-stats.vercel.app/api?username=taunur)](https://github.com/taunur/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taunur&layout=compact)](https://github.com/taunur/github-readme-stats) 
-
-
-
-
+[![Taunur's GitHub stats](https://github-readme-stats.vercel.app/api?username=taunur&show_icons=true&theme=tokyonight)](https://github.com/taunur/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taunur&theme=tokyonight)](https://github.com/taunur/github-readme-stats)
 
 <!-- [website]: https://banuacoders.com -->
-[twitter]: https://twitter.com/taunur_
+
+[twitter]: https://twitter.com/taunur__
 [instagram]: https://www.instagram.com/taunur_/
-[linkedin]: https://www.linkedin.com/in/taufik-nurrahman-7b648a220?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bb9A9dj6%2FRw%2Br3md6XmUCBg%3D%3D
+[linkedin]: https://www.linkedin.com/in/taunur/
 [webdevplaylist]: https://www.youtube.com/
 [jsplaylist]: https://www.youtube.com/
 [cssplaylist]: https://www.youtube.com/
 [reactplaylist]: https://www.youtube.com/
-
-
