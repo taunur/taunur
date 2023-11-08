@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![I am Taufik Nurrahman ]([https://media.licdn.com/dms/image/C5616AQFQxn9rihHqqQ/profile-displaybackgroundimage-shrink_350_1400/0/1640270538621?e=1697673600&v=beta&t=2kFIPxGN7ie8RGntkkpJZnTe2Nb7Ls0RKh42hU7zkws])
+![I am Taufik Nurrahman ](https://media.licdn.com/dms/image/C5616AQFQxn9rihHqqQ/profile-displaybackgroundimage-shrink_350_1400/0/1640270539152?e=1704931200&v=beta&t=jl-dBe8IdmFHd3cd8olwctozb8_p10TBr8a-BUw9Kmk)
 
 ### About Me
 
