@@ -1,0 +1,52 @@
+name: Update GitHub stats
+
+on:
+  push:
+    paths:
+      - .github/workflows/update-stats.yml
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+concurrency:
+  group: github-stats
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+
+      - name: Generate stats card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=taunur&show_icons=true&theme=tokyonight
+          path: assets/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Generate languages card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=taunur&theme=tokyonight&layout=compact
+          path: assets/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Save updated cards
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add assets/stats.svg assets/top-langs.svg
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git commit -m 'chore(profile): update github stats'
+          git push

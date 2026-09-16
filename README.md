@@ -61,8 +61,8 @@ I'm **Taufik Nurrahman**, also known as **taunur**, from Nganjuk, East Java, Ind
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=taunur&show_icons=true&theme=tokyonight" alt="Taufik's GitHub statistics" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taunur&theme=tokyonight&layout=compact" alt="Most used languages on Taufik's GitHub" width="40%" />
+  <img src="assets/stats.svg" alt="Taufik's GitHub statistics" width="48%" />
+  <img src="assets/top-langs.svg" alt="Most used languages on Taufik's GitHub" width="40%" />
 </p>
 
 [![Taufik's Holopin badges](https://holopin.me/taunur)](https://holopin.io/@taunur)
