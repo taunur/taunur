@@ -1,98 +1,72 @@
-### Hi There 👋
+![Taufik Nurrahman — UI/UX, web, and mobile developer](assets/profile-banner-lime.png)
 
-<!--
-**taunur/taunur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Taufik 👋
 
-Here are some ideas to get you started:
+**UI/UX Designer · Web Developer · Mobile Developer**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm **Taufik Nurrahman**, also known as **taunur**, from Nganjuk, East Java, Indonesia. My interests span interface design, web development, and mobile applications.
 
-![I am Taufik Nurrahman ](https://media.licdn.com/dms/image/v2/C5616AQFQxn9rihHqqQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1640270539152?e=1781136000&v=beta&t=tGTNpw56eEpcbr6wWRf6BmftOby6FfSL3pa53PSANoU)
+- 🎓 Education: Management Informatics at Surabaya State University.
+- 💬 Ask me about the languages and tools below.
+- 🧑 Pronouns: he/him.
 
-### About Me
+## Languages & Tools
 
-<p>📛 I'm Taufik Nurrahman a.k.a taunur</p>
-<p>🧑 Pronouns: He/Him </p>
-<p>🏫 Studies Bachelor of Science in Management Informatics at Surabaya State University</p>
-<p>🏠 Nganjuk East Java, Indonesia</p>
+### Web Development
 
-### Languages and Tools:
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
-[<img align="left" alt="Tailwind CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" />][cssplaylist]
-[<img align="left" alt="Bootsrap" width="30px" src="https://getbootstrap.com/docs/5.1/assets/brand/bootstrap-logo-shadow.png" />][cssplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
-[<img align="left" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/laravel/laravel.png" />][webdevplaylist]
-[<img align="left" alt="Dart" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />][webdevplaylist]
-[<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/flutter/flutter.png" />][webdevplaylist]
-[<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />][webdevplaylist]
-[<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][webdevplaylist]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
+### Mobile Development
 
-<br />
-<br />
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=black)
 
-### Connect with me:
+### Scripting
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-<br />
+### Design
 
----
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-### GitHub Stats:
+### Database & Development Tools
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center">
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taunur&theme=tokyonight_duo" alt="Taufik Nurrahman" />
-    </td>
-  </tr>
-</table>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Bruno](https://img.shields.io/badge/Bruno-F4AA41?style=flat-square&logo=bruno&logoColor=black)
+![Terminal](https://img.shields.io/badge/Terminal-242938?style=flat-square&logo=gnubash&logoColor=white)
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=taunur&show_icons=true&theme=tokyonight">
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taunur&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
-    </td>
-  </tr>
-</table>
+## Connect with Me
 
-<h3 align="center"> UI / UX Designer | Website Developer | Mobile Developer</h3>
+[LinkedIn](https://www.linkedin.com/in/taunur/) · [Instagram](https://www.instagram.com/taunur_/) · [Twitter / X](https://twitter.com/taunur__)
 
-<h3>
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=taunur&label=Profile%20views&color=6805D3&style=flat" alt="Taufik Nurrahman" />
-  </p>
-</h3>
+## GitHub Stats
 
-[![An image of @taunur's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/taunur)](https://holopin.io/@taunur)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=taunur&show_icons=true&theme=tokyonight" alt="Taufik's GitHub statistics" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taunur&theme=tokyonight&layout=compact" alt="Most used languages on Taufik's GitHub" width="40%" />
+</p>
 
-<!-- [website]: https://banuacoders.com -->
+[![Taufik's Holopin badges](https://holopin.me/taunur)](https://holopin.io/@taunur)
 
-[twitter]: https://twitter.com/taunur__
-[instagram]: https://www.instagram.com/taunur_/
-[linkedin]: https://www.linkedin.com/in/taunur/
-[webdevplaylist]: https://www.youtube.com/
-[jsplaylist]: https://www.youtube.com/
-[cssplaylist]: https://www.youtube.com/
-[reactplaylist]: https://www.youtube.com/
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=taunur&label=Profile%20views&color=6805D3&style=flat" alt="Profile views" />
+</p>
